@@ -8,7 +8,7 @@ cảm hứng cho các thế hệ tương lai.
 
 ## Checklist và timeline
 -[] 19/02 : Làm xong timeline
--[] 20/02 : Tìm được API phù hợp
+-[] 20/02 : Tìm được API **phù hợp**
 -[] 24/02 : Thiết kế header (nav bar, logo, nút redirect)
 -[] 28/02 : Thiết kế footer (about us, thông tin liên lạc)
 -[] 08/03 : Thiết kế body bằng boostrap
@@ -16,3 +16,4 @@ cảm hứng cho các thế hệ tương lai.
 -[] 24/03 : Thiết kế Powerpoint
 
 ## Ý tưởng
+Làm website chuyên về đưa ra lời khuyên về những việc nên làm vào ngày 8/3
